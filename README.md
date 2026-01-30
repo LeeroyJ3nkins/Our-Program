@@ -2,7 +2,7 @@
 
 > "The C is OURS!"
 
-A meme using C and Linux to express gratitude for the Free Software culture. This program renders the Soviet flag in the terminal while playing the Soviet anthem through raw audio synthesis (RAW/PCM) - no MP3 files involved, just pure mathematics and sound waves. PS: I am NOT a communist.
+A meme using C and Linux to express gratitude for the Free Software culture. This program renders the Soviet flag in the terminal while playing the Soviet anthem through raw audio synthesis (RAW/PCM) - no MP3 files involved, just pure mathematics and sound waves. Note: I am NOT a communist. I just like the code (and the memes).
 
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![Linux](https://img.shields.io/badge/Platform-Linux-yellow)
