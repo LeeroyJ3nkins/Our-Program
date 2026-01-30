@@ -18,7 +18,7 @@ Um tributo em C à cultura do Software Livre e aos memes. Este programa exibe a 
 ## Como Instalar e Rodar
 
 ### Opção 1: Via Pacote (Recomendado)
-Baixe o arquivo `.zip` na aba [Releases], extraia e rode:
+Baixe o arquivo `.zip` na aba [Releases], extraia e rode (executando install.sh, ou via terminal):
 
 ```bash
 bash install.sh
